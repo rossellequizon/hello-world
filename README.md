@@ -2,7 +2,7 @@
 This repository is for practicing the GitHub Flow.
 
 Hello, I'm Rosselle QUIZON
-I'm an engineering student in Computer Science at Sup Galilée, passionate about **software development, cybersecurity, and system administration.**  
+I'm an engineering student in Computer Science at Sup Galilée.
 
 Currently learning C, Java, databases, and networking 
 Interested in software engineering and cybersecurity
